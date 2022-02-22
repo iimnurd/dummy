@@ -2,6 +2,7 @@ site_name: aa
 
 nav:
   - Home: index.md
+  - FAQ: faq.md
 
 plugins:
   - techdocs-core
