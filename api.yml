@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: spotify
   definition:
-    $text: openapi.yaml
+    $text: https://github.com/iimnurd/dummy/blob/main/openapi.yml
