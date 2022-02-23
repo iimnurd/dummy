@@ -1,6 +1,6 @@
 ini halaman faq
 
-
+```kroki-blockdiag
 @startuml
 
 !include C4_Context.puml
@@ -18,3 +18,4 @@ Rel_Back(customer, mail_system, "Sends e-mails to")
 Rel_Neighbor(banking_system, mail_system, "Sends e-mails", "SMTP")
 Rel(banking_system, mainframe, "Uses")
 @enduml
+```
