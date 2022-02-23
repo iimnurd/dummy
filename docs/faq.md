@@ -2,7 +2,6 @@ ini halaman faq
 
 ```kroki-blockdiag
 @startuml
-
 !include C4_Context.puml
 
 title System Context diagram for Internet Banking System
