@@ -8,6 +8,8 @@ theme:
     name: mkdocs
     nav_style: dark
 
+ServerURL: http://localhost:8000
+
 plugins:
   - techdocs-core
   - kroki
