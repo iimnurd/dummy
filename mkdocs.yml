@@ -3,9 +3,10 @@ site_name: aa
 nav:
   - Home: index.md
   - FAQ: faq.md
-
+  
 theme:
-    name: readthedocs
+    name: mkdocs
+    nav_style: dark
 
 plugins:
   - techdocs-core
