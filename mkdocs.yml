@@ -4,5 +4,8 @@ nav:
   - Home: index.md
   - FAQ: faq.md
 
+theme:
+    name: readthedocs
+
 plugins:
   - techdocs-core
