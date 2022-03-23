@@ -5,6 +5,7 @@ metadata:
   description: ini desc
   annotations:
     backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: 'iimnurd/dummy'
 spec:
   type: service
   owner: engineering
