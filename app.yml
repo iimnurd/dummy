@@ -6,6 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: 'iimnurd/dummy'
+    opsgenie.com/component-selector: 'tag:""'
 spec:
   type: service
   owner: engineering
